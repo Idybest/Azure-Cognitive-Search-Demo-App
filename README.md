@@ -1,3 +1,1 @@
 # Azure-Cognitive-Search-Demo-App
-
-This is ...
